@@ -37,4 +37,4 @@ I'm a self-taught **Web Developer** passionate about creating user-friendly and 
 - SQL
 - WordPress/PHP
 
-📫 **Reach me at**: Use ontact form on <a href="https://stefan0712.github.io/portfolio/#contact" target="_blank"> My Portfolio Website
+📫 **Reach me at**: Use the contact form on <a href="https://stefan0712.github.io/portfolio/#contact" target="_blank"> My Portfolio Website
