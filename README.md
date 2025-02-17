@@ -28,6 +28,7 @@ I'm a self-taught **Web Developer** passionate about creating user-friendly and 
 
 🚀 **Projects**:  
 - [Fitness Tracker App](https://github.com/Stefan0712/fitness-app) - A full-featured app for tracking workouts, other activities, and other goals such as calories, food, water, weight, etc.
+- [Get It Done] (https://github.com/Stefan0712/get-it-done) - A simple Pomodoro timer with a basic task tracker for maximum productivity. Why spend a lot of time creating the tasks instead of spending that time doing them?
 - [Time Management App](https://github.com/Stefan0712/simple-time-management) - A simple productivity app with projects, lists, tasks, notes, and a pomodoro timer. The goal is to make organizing your work easier, faster, and with no learning curve.
 - [Event Management App](https://github.com/Stefan0712/event-management-app) - This app is targeted towards people that want to easily create any kind of event, be it a movie night or a big party, with authorization, authentication, and full CRUD. (this repo is only the frontend, the backend is in another repo)
 - [YelpCamp](https://github.com/Stefan0712/YelpCamp) - A Yelp clone made to learn ExpressJs, EJS, MongoDb, Passport, Mapbox, Coudinary, Bootstrap, etc. 
