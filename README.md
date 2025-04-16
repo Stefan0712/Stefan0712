@@ -12,6 +12,8 @@ I'm a self-taught **Web Developer** passionate about creating user-friendly and 
 - Git & GitHub
 - ExpressJs, EJS
 - MongoDB
+- Typescript
+- TailwindCSS
   <p align="center">
   <img src="https://img.shields.io/badge/HTML5-333?style=flat&logo=html5&logoColor=E34F26" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-333?style=flat&logo=css3&logoColor=1572B6" alt="CSS3" />
@@ -26,10 +28,11 @@ I'm a self-taught **Web Developer** passionate about creating user-friendly and 
 </p>
 
 
-🚀 **Projects**:  
+🚀 **Projects that I work on now**:  
 - [Fitness Tracker App](https://github.com/Stefan0712/fitness-app) - A full-featured app for tracking workouts, other activities, and other goals such as calories, food, water, weight, etc.
+- [Fitness API](https://github.com/Stefan0712/fitness-api) - An API meants to allow users to create and/or find exercises and workouts either curated by me or created by others. It will be used by my fitness app to allow users find new exercises.
+- [Fitness API Portal](https://github.com/Stefan0712/api-portal) - The Front-end for the Fitness API. A simple interface for finding and managing workouts and exercises. 
 - [Get It Done](https://github.com/Stefan0712/get-it-done) - A simple Pomodoro timer with a basic task tracker for maximum productivity. Why spend a lot of time creating the tasks instead of spending that time doing them?
-- [Time Management App](https://github.com/Stefan0712/simple-time-management) - A simple productivity app with projects, lists, tasks, notes, and a pomodoro timer. The goal is to make organizing your work easier, faster, and with no learning curve.
 - [Event Management App](https://github.com/Stefan0712/event-management-app) - This app is targeted towards people that want to easily create any kind of event, be it a movie night or a big party, with authorization, authentication, and full CRUD. (this repo is only the frontend, the backend is in another repo)
 - [YelpCamp](https://github.com/Stefan0712/YelpCamp) - A Yelp clone made to learn ExpressJs, EJS, MongoDb, Passport, Mapbox, Coudinary, Bootstrap, etc. 
 
