@@ -1,8 +1,7 @@
 ### Hi there 👋, I'm Stefan!
 
-I'm a self-taught **Web Developer** passionate about creating user-friendly and modern web applications.
+I'm a self-taught **Web Developer** passionate about creating user-friendly and modern web applications, while solving real problems. Because my latest projects are answers to problems that I come across, I work on them with passion, while learning, and having fun.
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Stefan0712&show_icons=true&theme=radical)
 
 
 🔧 **Technologies I use**:  
@@ -14,6 +13,7 @@ I'm a self-taught **Web Developer** passionate about creating user-friendly and 
 - MongoDB
 - Typescript
 - TailwindCSS
+- Dexie/IndexedDB
   <p align="center">
   <img src="https://img.shields.io/badge/HTML5-333?style=flat&logo=html5&logoColor=E34F26" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-333?style=flat&logo=css3&logoColor=1572B6" alt="CSS3" />
@@ -29,9 +29,9 @@ I'm a self-taught **Web Developer** passionate about creating user-friendly and 
 
 
 🚀 **Projects that I work on now**:  
+- [Acta](https://github.com/Stefan0712/acta) - Collaborate easily on shared lists, make decisions with simple polls, and share useful notes with friends or family, or manage your own private offline-only lists.
 - [Fitness Tracker App](https://github.com/Stefan0712/fitness-app) - A full-featured app for tracking workouts, other activities, and other goals such as calories, food, water, weight, etc.
 - [Fitness API](https://github.com/Stefan0712/fitness-api) - An API meants to allow users to create and/or find exercises and workouts either curated by me or created by others. It will be used by my fitness app to allow users find new exercises.
-- [Fitness API Portal](https://github.com/Stefan0712/api-portal) - The Front-end for the Fitness API. A simple interface for finding and managing workouts and exercises. 
 - [Get It Done](https://github.com/Stefan0712/get-it-done) - A simple Pomodoro timer with a basic task tracker for maximum productivity. Why spend a lot of time creating the tasks instead of spending that time doing them?
 - [Event Management App](https://github.com/Stefan0712/event-management-app) - This app is targeted towards people that want to easily create any kind of event, be it a movie night or a big party, with authorization, authentication, and full CRUD. (this repo is only the frontend, the backend is in another repo)
 - [YelpCamp](https://github.com/Stefan0712/YelpCamp) - A Yelp clone made to learn ExpressJs, EJS, MongoDb, Passport, Mapbox, Coudinary, Bootstrap, etc. 
@@ -41,4 +41,4 @@ I'm a self-taught **Web Developer** passionate about creating user-friendly and 
 - SQL
 - WordPress/PHP
 
-📫 **Reach me at**: Use the contact form on <a href="https://stefan0712.github.io/portfolio/#contact" target="_blank"> My Portfolio Website
+📫 **Reach me at**: Use the contact form on <a href="https://stefanvladulescu.com/#contact" target="_blank"> My Portfolio Website
