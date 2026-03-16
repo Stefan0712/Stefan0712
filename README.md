@@ -31,14 +31,8 @@ I'm a self-taught **Web Developer** passionate about creating user-friendly and 
 🚀 **Projects that I work on now**:  
 - [Acta](https://github.com/Stefan0712/acta) - Collaborate easily on shared lists, make decisions with simple polls, and share useful notes with friends or family, or manage your own private offline-only lists.
 - [Fitness Tracker App](https://github.com/Stefan0712/fitness-app) - A full-featured app for tracking workouts, other activities, and other goals such as calories, food, water, weight, etc.
-- [Fitness API](https://github.com/Stefan0712/fitness-api) - An API meants to allow users to create and/or find exercises and workouts either curated by me or created by others. It will be used by my fitness app to allow users find new exercises.
+- [Arc]([https://github.com/Stefan0712/fitness-api](https://github.com/stefan0712/arc)) - A minimal habit tracker designed for mobile users to build consistency through visual progress. Track multiple types of habits with ease, focusing on what matters, with minimum friction.
 - [Get It Done](https://github.com/Stefan0712/get-it-done) - A simple Pomodoro timer with a basic task tracker for maximum productivity. Why spend a lot of time creating the tasks instead of spending that time doing them?
 - [Event Management App](https://github.com/Stefan0712/event-management-app) - This app is targeted towards people that want to easily create any kind of event, be it a movie night or a big party, with authorization, authentication, and full CRUD. (this repo is only the frontend, the backend is in another repo)
-- [YelpCamp](https://github.com/Stefan0712/YelpCamp) - A Yelp clone made to learn ExpressJs, EJS, MongoDb, Passport, Mapbox, Coudinary, Bootstrap, etc. 
-
-🌱 **Currently Learning**:  
-- TypeScript
-- SQL
-- WordPress/PHP
 
 📫 **Reach me at**: Use the contact form on <a href="https://stefanvladulescu.com/#contact" target="_blank"> My Portfolio Website
