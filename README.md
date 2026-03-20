@@ -2,37 +2,33 @@
 
 I'm a self-taught **Web Developer** passionate about creating user-friendly and modern web applications, while solving real problems. Because my latest projects are answers to problems that I come across, I work on them with passion, while learning, and having fun.
 
-
-
-🔧 **Technologies I use**:  
-- HTML, CSS, JavaScript  
-- React, React-Router,
-- Redux  
-- Git & GitHub
-- ExpressJs, EJS
-- MongoDB
-- Typescript
-- TailwindCSS
-- Dexie/IndexedDB
-  <p align="center">
+🔧 **Technologies I Build With**
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-333?style=flat&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-333?style=flat&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-333?style=flat&logo=html5&logoColor=E34F26" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-333?style=flat&logo=css3&logoColor=1572B6" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-333?style=flat&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-333?style=flat&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/React_Router-333?style=flat&logo=react-router&logoColor=CA4245" alt="React Router" />
+  <br />
+  <img src="https://img.shields.io/badge/React_19-333?style=flat&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-333?style=flat&logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Framer_Motion-333?style=flat&logo=framer&logoColor=0055FF" alt="Framer Motion" />
+  <img src="https://img.shields.io/badge/Zustand-333?style=flat&logo=react&logoColor=white" alt="Zustand" />
   <img src="https://img.shields.io/badge/Redux-333?style=flat&logo=redux&logoColor=764ABC" alt="Redux" />
-  <img src="https://img.shields.io/badge/Git-333?style=flat&logo=git&logoColor=F05032" alt="Git" />
+  <br />
+  <img src="https://img.shields.io/badge/Node.js-333?style=flat&logo=node.js&logoColor=339933" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-333?style=flat&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/EJS-333?style=flat&logo=ejs&logoColor=white" alt="EJS" />
   <img src="https://img.shields.io/badge/MongoDB-333?style=flat&logo=mongodb&logoColor=47A248" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Dexie.js_(IndexedDB)-333?style=flat&logo=databricks&logoColor=FF3621" alt="Dexie" />
+  <img src="https://img.shields.io/badge/Docker-333?style=flat&logo=docker&logoColor=2496ED" alt="Docker" />
 </p>
 
 
-🚀 **Projects that I work on now**:  
-- [Acta](https://github.com/Stefan0712/acta) - Collaborate easily on shared lists, make decisions with simple polls, and share useful notes with friends or family, or manage your own private offline-only lists.
-- [Fitness Tracker App](https://github.com/Stefan0712/fitness-app) - A full-featured app for tracking workouts, other activities, and other goals such as calories, food, water, weight, etc.
-- [Arc]([https://github.com/Stefan0712/fitness-api](https://github.com/stefan0712/arc)) - A minimal habit tracker designed for mobile users to build consistency through visual progress. Track multiple types of habits with ease, focusing on what matters, with minimum friction.
-- [Get It Done](https://github.com/Stefan0712/get-it-done) - A simple Pomodoro timer with a basic task tracker for maximum productivity. Why spend a lot of time creating the tasks instead of spending that time doing them?
-- [Event Management App](https://github.com/Stefan0712/event-management-app) - This app is targeted towards people that want to easily create any kind of event, be it a movie night or a big party, with authorization, authentication, and full CRUD. (this repo is only the frontend, the backend is in another repo)
+🚀 **Featured Projects**  
 
+* **[Acta](https://github.com/Stefan0712/acta)** - A full-stack, local-first productivity engine featuring a custom synchronization engine bridging local Dexie.js storage with an Express/MongoDB REST API for real-time group collaboration.
+* **[EasyFit](https://github.com/Stefan0712/fitness-app)** - A comprehensive, local-first fitness and nutrition tracking app utilizing a real-time snapshot system (Redux Persist) and complex relational database architecture to manage active multi-phase workouts.
+* **[Arc](https://github.com/stefan0712/arc)** - A mobile-optimized habit tracker built with React 19 and Dexie.js. Features customizable binary and numeric targets with visual progress analytics and localized data backups.
+* **[Focus](https://github.com/Stefan0712/focus)** - A Progressive Web App (PWA) combining a highly customizable Pomodoro timer with an integrated task manager, utilizing `useLiveQuery` for zero-latency database sorting.
+* **[Arithmo](https://github.com/Stefan0712/arithmo)** - An offline-first, gamified math learning platform powered by a custom universal game engine and asynchronous "ghost" multiplayer driven by deterministic match seeds.
+* * **[Portfolio & Homelab Infrastructure](https://stefanvladulescu.com)** - A custom React portfolio served from a dedicated bare-metal Ubuntu server. The infrastructure hosts 15+ containerized microservices managed via Docker, with traffic securely routed through Cloudflare and a Caddy reverse proxy, all actively monitored with real-time uptime analytics.
 📫 **Reach me at**: Use the contact form on <a href="https://stefanvladulescu.com/#contact" target="_blank"> My Portfolio Website
